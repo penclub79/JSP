@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-에러 페이지 입니다.
-	<a href="HelloWorld.jsp">이전페이지</a>
-
+ 안녕하세요 반갑습니다
 </body>
 </html>
